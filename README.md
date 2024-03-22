@@ -1,0 +1,2 @@
+# citra-linux
+for lutris
